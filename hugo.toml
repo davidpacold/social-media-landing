@@ -15,7 +15,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home ! Change this if you wish ! 
-  homeSubtitle = "Where to find me"
+  homeSubtitle = "Where to find me!"
 
 
   # Metadata mostly used in document's head ! Change this if you wish !
